@@ -1,11 +1,15 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anas313131&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+
 ## Hi there 👋
 # 💫 About Me:
-- 🎓 Computer Science Student  <br>- 🌱 Currently learning **React, Next.js, Node.js, Kotlin**<br>- 💬 Ask me about **Frontend, Backend, Android**<br>- 🛠️ Love building real-world projects<br>- ⚡ Fun fact: I fix bugs faster after coffee ☕😄<br><br>
+- 🎓 Computer Science graduate  <br>- 🌱 Currently learning **React, Next.js, Node.js, Kotlin**<br>- 💬 Ask me about **Frontend, Backend, Android**<br>- 🛠️ Love building real-world projects<br>- ⚡ Fun fact: I fix bugs faster after coffee ☕😄<br><br>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f7/81/2e/f7812e1249081221bb80abb048698308.gif" width="600"/>
 </p>
-
 
 
 ## 🌐 Socials:
