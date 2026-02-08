@@ -11,12 +11,10 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/a.s.azam_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anas-azam-618b1022b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anas.azam2001@gmail.com) 
 
-<h2 align="center">🧠 System Control Center</h2>
-
+## 👨‍💻 Welcome to my Dev Lair
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amar-codingenthusiast/amar-codingenthusiast/main/assets/hacker-room.gif" width="700"/>
+  <img src="https://gifs.alphacoders.com/222/222829.gif" width="700"/>
 </p>
-
 
 
 # 💻 Tech Stack:
