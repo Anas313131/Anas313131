@@ -7,10 +7,6 @@
 # 💫 About Me:
 - 🎓 Computer Science graduate  <br>- 🌱 Currently learning **React, Next.js, Node.js, Kotlin**<br>- 💬 Ask me about **Frontend, Backend, Android**<br>- 🛠️ Love building real-world projects<br>- ⚡ Fun fact: I fix bugs faster after coffee ☕😄<br><br>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f7/81/2e/f7812e1249081221bb80abb048698308.gif" width="600"/>
-</p>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/a.s.azam_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anas-azam-618b1022b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anas.azam2001@gmail.com) 
